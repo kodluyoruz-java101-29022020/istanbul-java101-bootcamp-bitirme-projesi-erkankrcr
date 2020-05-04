@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyLibraryProject</string>
+    <string name="nav_library_add">Kitap Ekle</string>
+    <string name="nav_library_search">Kitap Ara</string>
+    <string name="nav_login_login">Giriş Yap</string>
+    <string name="nav_login_sign">Kayıt Ol</string>
+    <string name="sign_name">İsim</string>
+    <string name="sign_lastname">Soyisim</string>
+    <string name="sign_username">Kullanıcı Adı</string>
+    <string name="sign_password">Parola</string>
+    <string name="sign_password_repeat">Parola Tekrar</string>
+    <string name="notnullET">İlgili Alanlar Boş Bırakılamaz!</string>
+    <string name="passwordError">Şifreler Uyuşmuyor</string>
+    <string name="null_end_time">Bitmedi</string>
+    <string name="library_add">Kitap Ekleme</string>
+    <string name="book_title">Kitap Başlığı</string>
+    <string name="book_description">Kitap Açıklaması</string>
+    <string name="book_comment">Kitap Yorumu</string>
+    <string name="book_pyear">Kitap Basım Tarihi</string>
+    <string name="book_author">Yazar</string>
+    <string name="book_submit">Kitabı Kaydet</string>
+</resources>
